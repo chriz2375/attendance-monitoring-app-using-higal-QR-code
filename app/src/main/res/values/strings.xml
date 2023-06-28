@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">DAR-Cli</string>
+    <string name="EmployeeID">Employee ID</string>
+    <string name="EmployeePass">Password</string>
+    <string name="CreateAccount">Create Account</string>
+    <string name="Login">Login</string>
+    <string name="FullName">Full Name</string>
+    <string name="Email">Email</string>
+    <string name="EMAA">Employee Monitoring Attendace App</string>
+    <string name="TimeIn">Time in</string>
+    <string name="TimeOut">Time out</string>
+    <string name="DisplayDTR">Display DTR</string>
+    <string name="LogOut">Logout</string>
+    <string name="ScanQR">Scan QR Code</string>
+    <string name="InputDetails">Input Details</string>
+    <string name="ExtractRecords">Extract Records</string>
+    <string name="Address">Address (Optional)</string>
+    <string name="MobileNum">Contact no.</string>
+    <string name="Purpose">Purpose</string>
+    <string name="Addrecord">Add Record</string>
+    <string name="SelectAppointment">Select an Appointment</string>
+    <string name="mobile_no">Mobile no.</string>
+    <string name="address_optional">Address (Optional)</string>
+    <string name="others_specify">Others (Specify)</string>
+    <string name="admin">ADMIN</string>
+    <string name="guard">GUARD</string>
+    <string name="todo">TODO</string>
+    <string name="admin_username">Admin username</string>
+    <string name="password">Password</string>
+    />
+    <string-array name="selectPurpose">
+        <item>Select an appointment…</item>
+        <item>Chief Agrarian Reform Officer(CARPO)</item>
+        <item>Senior Agrarian Reform Program Officer(SARPO)</item>
+        <item>Agrarian Reform Program Officer II(ARPOII)</item>
+        <item>Agrarian Reform Program Officer I(ARPOI)</item>
+        <item>Agrarian Reform Program Technologist(ARPT)</item>
+        <item>Assistant Statistician(ASSTAT)</item>
+        <item>Other, please specify</item>
+
+    </string-array>
+</resources>

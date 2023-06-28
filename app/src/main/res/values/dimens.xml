@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Distance">200dp</dimen>
+    <dimen name="dis1">150dp</dimen>
+    <dimen name="dis2">180dp</dimen>
+    <dimen name="dis3">170dp</dimen>
+    <dimen name="dis4">70dp</dimen>
+</resources>
